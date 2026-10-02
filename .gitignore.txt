@@ -1,0 +1,9 @@
+seg_train/
+seg_test/
+seg_pred/
+
+*.keras
+*.h5
+
+__pycache__/
+.ipynb_checkpoints/
